@@ -4,7 +4,7 @@ Este projeto tem como objetivo mostrar como é desenvolvido um software e o obje
 
 Este projeto foi arquitetado pelos estudantes da disciplina de Engenharia de Software, Ministrado pelo Professor Heleno Cardoso, no Centro Universitário Uniruy Wyden - Campus Imbuí Salvador/BA. 
 
-Membros: Arthur Motta Cumming (202303532946) -                                                                                                                                                 
+Membros: Arthur Motta Cumming (202303532946)                                                                                                                                                  
 Natanael Henrique Encarnação Das Mandias (202303622121)                                                                                                                                          
 Laís Medeiros Costa Gonçalves (202308705301)                                                                                                                                                          
 Letícia Medeiros Costa Gonçalves (202308705296)                                                                                                                                                       
