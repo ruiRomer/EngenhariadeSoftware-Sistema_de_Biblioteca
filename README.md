@@ -4,4 +4,4 @@ Este projeto tem como objetivo mostrar como é desenvolvido um software e o obje
 
 Este projeto foi arquitetado pelos estudantes da disciplina de Banco de Dados, Ministrado pelo Professor Heleno Cardoso, no Centro Universitário Uniruy Wyden - Campus Imbuí Salvador/BA. 
 
-Membros: ARTHUR MOTTA CUMMING (202303532946), NATANAEL HENRIQUE ENCARNAÇÃO DAS MANDIAS (202303622121), LAÍS MEDEIROS COSTA GONÇALVES (202308705301), LETÍCIA MEDEIROS COSTA GONÇALVES (202308705296), ROBERTA SUED NASCIMENTO GOMES DE SANTANA (202308425986), RUI ROMER CUPERTINO SACRAMENTO JUNIOR (202302846157), VINICIUS DOS SANTOS REIS (202308426095).
+Membros: Arthur Motta Cumming (202303532946), Natanael Henrique Encarnação Das Mandias (202303622121), Laís Medeiros Costa Gonçalves (202308705301), Letícia Medeiros Costa Gonçalves (202308705296), Roberta Sued Nascimento Gomes De Santana (202308425986), Rui Romer Cupertino Sacramento Junior (202302846157), Vinicius Dos Santos Reis (202308426095).
