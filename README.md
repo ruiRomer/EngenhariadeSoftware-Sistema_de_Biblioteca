@@ -1,4 +1,4 @@
-# EngenhariadeSoftware - Sistema de biblioteca
+# Engenharia de Software - Sistema de biblioteca
 
 Este projeto tem como objetivo mostrar como é desenvolvido um software e o objetivo da nossa aplicação de Controle de Biblioteca é fornecer uma plataforma eficiente para gerenciar o processo de empréstimo de livros
 
